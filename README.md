@@ -1,4 +1,5 @@
 # documento-markdown
+
 ```
 ## Titulos nivel 1, 2 y 3 
 * # Esto es un titulo de N1, se usa un hashtag 
@@ -6,6 +7,7 @@
 * ### Esto es un titulo de N3, se usan tres hashtag 
 ```
 
+```
 ## textos
 * ### texto en cursivas
 * *Esto es un texto en cursiva se usa un asterisco o guion bajo al inicio y final de cada elemento* 
@@ -15,12 +17,15 @@
 * ***Esto es un texto en negritas y cursivas, se usan tres asteriscos o guiones bajos al inicio y final de cada elemento***
 * ### texto de enlace
 * [para crear un enlace](url) se usan parentesis en el texto de enlace y corchetes en el url
+```
 
+```
 ## Listas
 ### Listas desordenadas em estas se usa un asteriscos, guiones, o signos de más seguidos de un espacio
 * texto 1
 * texto 2
 * texto 3
+```
 
 ### Listas ordenadas es estas se usan números seguidos de un punto y un espacio
 1. texto 1
