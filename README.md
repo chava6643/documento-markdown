@@ -40,7 +40,7 @@
 
 ## Bloques de codigo
 * ### se usan para resaltar fragmentos de codigo mediante comillas invertidas, se usa una si es una sola linea o tres en caso de ser varias
-* `codigo`
-* ```codigo
-
+ `codigo`
+```
+codigo
 ```
