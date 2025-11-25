@@ -33,7 +33,7 @@
 
 
 ## Imagenes
-*  [imagen](url)
+*  [rata pelona](https://upload.wikimedia.org/wikipedia/commons/d/d1/Cdsgnrebtreras.jpg)
 *  ### se usan parentesis en el texto de enlace y corchetes en el url parecido al texto de enlace pero  se agrega un signo de exclamacion al inicio
 
 
