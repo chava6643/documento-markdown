@@ -56,3 +56,15 @@ codigo
 ## Linea horizontal
 *   Se usan tres guiones, guiones bajos o asteriscos
 ---
+
+
+
+## Tablas
+* Las filas de la tabla se separan con | y las cabeceras se alinean con guiones
+| materia   | cal | 
+|-----------|-----|
+| mate      |  9  | 
+| quimica   |  9  |
+| historia  |  9  | 
+| español   |  9  |
+| ingles    |  9  | 
