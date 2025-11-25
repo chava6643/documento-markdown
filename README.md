@@ -53,4 +53,6 @@ codigo
 
 
 
-## Linea 
+## Linea horizontal
+*   Se usan tres guiones, guiones bajos o asteriscos
+---
