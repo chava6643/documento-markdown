@@ -1,9 +1,10 @@
 # documento-markdown
-
-``` ## Titulos nivel 1, 2 y 3 
+```
+## Titulos nivel 1, 2 y 3 
 * # Esto es un titulo de N1, se usa un hashtag 
 * ## Esto es un titulo de N2, se usan dos hashtag
-* ### Esto es un titulo de N3, se usan tres hashtag ```
+* ### Esto es un titulo de N3, se usan tres hashtag 
+```
 
 ## textos
 * ### texto en cursivas
