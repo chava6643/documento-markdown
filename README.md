@@ -1,6 +1,6 @@
 # documento-markdown
 
-# Titulos nivel 1 y 2
+*## Titulos nivel 1 y 2
 # Esto es un titulo de N1, se usa un hashtag 
 ## Esto es un titulo de N2, se usan dos hashtag
 
