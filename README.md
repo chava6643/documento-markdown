@@ -61,6 +61,7 @@ codigo
 
 ## Tablas
 * Las filas de la tabla se separan con | y las cabeceras se alinean con guiones
+  
 | materia   | cal | 
 |-----------|-----|
 | mate      |  9  | 
